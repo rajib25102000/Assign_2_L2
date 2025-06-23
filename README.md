@@ -1,0 +1,2 @@
+What is PostgreSQL?
+Ans:
